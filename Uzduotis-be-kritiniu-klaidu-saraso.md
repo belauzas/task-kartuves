@@ -16,6 +16,7 @@ Klientas nori galėti žaisti žaidimą, kuriame reikia atspėti paslėptą žod
 -   repozitorijoje nėra kodo - **0 balų**;
 -   nusirašyta nuo kolegų (commit'ų laikas ir turinys leis matyti) - **0 balų**;
 -   nukopijuota iš interneto - **0 balų**;
+-   jei nenaudojamas React.js - **0 balų**;
 -   yra kodas, bet nėra instrukcijų kaip jį pasileisti - **1 balas**;
 -   yra kodas, yra instrukcijos, bet jomis vadovaujantis nepavyksta pasileisti projekto - **1 balas**;
 
